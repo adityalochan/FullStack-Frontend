@@ -28,6 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Project Component Diagram
 
-![Component Diagram](<Screenshot 2023-07-11 at 8.57.32 PM.png>)
+![Component Diagram](<ComponentDiagram.png>)
 
 
